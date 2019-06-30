@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
-.container {
-    width: 1400px;
-    margin: auto;
+.menu {
+    float: right;
+    padding: 10px;
+
